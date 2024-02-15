@@ -1,0 +1,11 @@
+# Scrapy
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.scrapy/
+
+# Virtual environment
+env/
