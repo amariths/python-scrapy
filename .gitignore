@@ -8,4 +8,4 @@ build/
 .scrapy/
 
 # Virtual environment
-env/
+env
